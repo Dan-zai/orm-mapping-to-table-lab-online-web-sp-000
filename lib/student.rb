@@ -8,6 +8,8 @@ class Student
     @grade = grade
     @id = id
   end
+  
+  
  
   
 end
