@@ -2,9 +2,9 @@ class Student
 
   attr_accessor :name, :album
  
-  def initialize(name, album)
+  def initialize(name, grade)
     @name = name
-    @album = album
+    @grade = grade
   end
  
   
